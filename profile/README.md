@@ -8,8 +8,6 @@ webhookie is API management software that enables you to quickly add webhook API
 * Traffic inspection - allow your API providers and consumers to inspect the traffic being sent to their callback to check for issues.
 * Guaranteed delivery - API consumers callback is down? No worries, with retry strategies and the abiltiy to resend messages your API consumers won't miss an event.
 
-Our community edition is open source licensed under the GNU Affero license. Currently we have our repos in a competitor to github but we are investigating to migrate our code here. In the meantime you can find out more details at https://webhoookie.com
-
 <!--
 
 **Here are some ideas to get you started:**
