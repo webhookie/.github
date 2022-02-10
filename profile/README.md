@@ -1,6 +1,6 @@
 ## Welcome 👋
 
-webhookie is API management software that enables you to quickly add webhook API support to your application or product. It provides:
+webhookie is an open-source webhook API platform that enables you to quickly add webhook API capability to your product, platform or integratioon architecture. It provides:
 
 * Webhook API Design Tool - Deploy webhook APIs using the ASYNC API specification
 * Developer Portal you can white label - Allow your API consumers to securely discover the webhooks your application or products provide.
